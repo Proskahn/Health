@@ -2,7 +2,7 @@ How old are you?
 
 'Weight' is how fat I am
 
-'day' is how many days I live so far
+'Day' is how many days I live so far
 
 'Beer' is how much beer I drink in ml
 
