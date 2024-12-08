@@ -52,5 +52,3 @@ for idx in range(len(file_paths), len(axes)):
 plt.tight_layout(rect=[0, 0, 1, 0.88])  # Reserve more space for the title
 plt.subplots_adjust(top=0.85)  # Push subplots down even further
 plt.show()
-
-# Sport_path = r"C:\Users\DEZHKAN\Desktop\Health\Sport.json"
