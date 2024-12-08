@@ -8,7 +8,8 @@ file_paths = {
     "Smoking": r"C:\Users\DEZHKAN\Desktop\Health\Smoking.json",
     "Weight": r"C:\Users\DEZHKAN\Desktop\Health\Weight.json",
     "Step": r"C:\Users\DEZHKAN\Desktop\Health\Step.json",
-    "Stock": r"C:\Users\DEZHKAN\Desktop\Health\Stock.json"
+    "Stock": r"C:\Users\DEZHKAN\Desktop\Health\Stock.json",
+    "FoodExpense": r"C:\Users\DEZHKAN\Desktop\Health\FoodExpense.json"
 }
 
 # Generate color palette
