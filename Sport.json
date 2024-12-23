@@ -5,7 +5,7 @@
     "day9284": "Gym",
     "day9285": "Swimming",
     "day9286": "None",
-    "day9287": "Swimming+HomeTraining",
+    "day9287": ["Swimming", "HomeTraining"],
     "day9288": "None",
     "day9289": "None",
     "day9290": "None",
@@ -16,5 +16,6 @@
     "day9295": "Fishing",
     "day9296": "Swimming",
     "day9297": "None",
-    "day9298": "HomeTraining"
+    "day9298": "HomeTraining",
+    "day9299": "Swimming"
 }
