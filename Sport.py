@@ -4,7 +4,7 @@ from collections import Counter
 
 # File path
 file_paths = {
-    "Sport": r"health/Sport.json"
+    "Sport": r"Sport.json"
 }
 
 # Open and load the JSON file

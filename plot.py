@@ -4,12 +4,12 @@ import matplotlib.cm as cm
 
 # File paths
 file_paths = {
-    "Beer": r"health\Beer.json",
-    "Smoking": r"health\Smoking.json",
-    "Weight": r"health\Weight.json",
-    "Step": r"health\Step.json",
-    "Stock": r"health\Stock.json",
-    "FoodExpense": r"health\FoodExpense.json"
+    "Beer": r"Beer.json",
+    "Smoking": r"Smoking.json",
+    "Weight": r"Weight.json",
+    "Step": r"Step.json",
+    "Stock": r"Stock.json",
+    "FoodExpense": r"FoodExpense.json"
 }
 
 # Generate color palette
