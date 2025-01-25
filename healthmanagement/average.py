@@ -2,7 +2,7 @@ import json
 
 # File paths
 file_paths = {
-    "Beer": r"Beer.json",
+    "Beer": r"data/Beer.json",
     "Smoking": r"data/Smoking.json",
     "Weight": r"data/Weight.json",
     "Step": r"data/Step.json",
